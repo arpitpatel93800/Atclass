@@ -1,0 +1,35 @@
+HTTrack3.49-1+htsswf+htsjava launched on Fri, 21 Apr 2017 02:35:42 at http://medicure-html.cmsmasters.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://medicure-html.cmsmasters.net/ -O1 "C:\My Web Sites\Medicare" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:39:20	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): medicure-html.cmsmasters.net/php/sendmail.php
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/images/img/nav_arrow_left.png (from medicure-html.cmsmasters.net/css/style.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/images/img/nav_arrow_right.png (from medicure-html.cmsmasters.net/css/style.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/images/img/arrow_list.png (from medicure-html.cmsmasters.net/css/style.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/bg_body@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/error@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/success@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/notice@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/warning@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/css/img/retina/download@2x.png (from medicure-html.cmsmasters.net/css/styles/retina.css)
+02:41:30	Warning: 	File not parsed, looks like binary: medicure-html.cmsmasters.net/css/fonts/icons.ttf?85842087
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/font/revicons.eot?5510888 (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/font/revicons.woff?5510888 (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/font/revicons.ttf?5510888 (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/font/revicons.svg?5510888 (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/images/gradient/g30.png (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:30	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/revolution/images/gradient/g40.png (from medicure-html.cmsmasters.net/revolution/css/settings.css)
+02:41:32	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/js/jquery.easing.js (from medicure-html.cmsmasters.net/information_boxes.html)
+02:41:32	Error: 	"Forbidden" (403) at link vjs.zencdn.net/oceans-clip.png (from medicure-html.cmsmasters.net/media.html)
+02:41:32	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/indes.html (from medicure-html.cmsmasters.net/pass.html)
+02:41:32	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/lsidebare.html (from medicure-html.cmsmasters.net/lsidebar.html)
+02:41:39	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/all.js)
+02:41:39	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/restserver.php (from connect.facebook.net/en_US/all.js)
+02:41:39	Error: 	"Not Found" (404) at link medicure-html.cmsmasters.net/dialog/ (from connect.facebook.net/en_US/all.js)
+
+HTTrack Website Copier/3.49-1 mirror complete in 5 minutes 57 seconds : 282 links scanned, 259 files written (11040462 bytes overall) [8852383 bytes received at 24796 bytes/sec], 2910644 bytes transferred using HTTP compression in 77 files, ratio 21%, 4.0 requests per connection
+(22 errors, 2 warnings, 0 messages)
